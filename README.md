@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yatharthbajaj30
 - 👀 I’m interested in Solving puzzles
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently Studying Computer Engineering
 - 📫 How to reach me ...yatharthbajaj30@gmail.com
 
 <!---
