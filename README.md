@@ -3,7 +3,7 @@
 🚀 Software Engineer | Java | React | Spring Boot | Docker | AWS | C++
 
 - 🔭 I’m currently working on **React + Spring Boot projects**
-- 🌱 Learning more about **cloud infrastructure and high-performance systems**
+- 🎶 Learning more about **cloud infrastructure and high-performance systems**
 - 💬 Ask me about **backend optimizations, JWT authentication, or React state management**
 - 📫 Reach me at **yatharthbajaj30@gmail.com**
   
